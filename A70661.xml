@@ -1,0 +1,959 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a gentleman in Ireland to his brother in England, relating to the concerns of Ireland in matter of trade</title>
+            <author>Marvell, Andrew, 1621-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70661</idno>
+            <idno type="STC">Wing M871B</idno>
+            <idno type="STC">ESTC R13907</idno>
+            <idno type="EEBO-CITATION">13138646</idno>
+            <idno type="OCLC">ocm 13138646</idno>
+            <idno type="VID">97958</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70661)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97958)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 426:8 or 1727:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a gentleman in Ireland to his brother in England, relating to the concerns of Ireland in matter of trade</title>
+                  <author>Marvell, Andrew, 1621-1678.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Langley Curtiss ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Andrew Marvell. Cf. BM.</note>
+                  <note>"Licensed, March 26, 1677. Roger L'Estrange."</note>
+                  <note>This item appears at reel 426:8 as Wing L1385 (number cancelled in Wing 2nd ed.), and at reel 1727:5 as Wing M871B.</note>
+                  <note>Reproduction of originals in National Library of Scotland (Advocates') and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Commerce --  England.</term>
+               <term>Great Britain --  Commerce --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97958:1"/>
+            <p>A
+LETTER
+From a GENTLEMAN in
+IRELAND
+To his BROTHER in
+ENGLAND,
+Relating to the Concerns of
+IRELAND in matter of
+TRADE.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed,</p>
+                        <closer>
+                           <signed>Roger L'Estrange.</signed> 
+                           <dateline>
+                              <date>March 26. 1677.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi>
+Printed and are to be ſold by <hi>Langley Curtiſs,</hi> in
+<hi>Goat-Court</hi> upon <hi>Ludgate-hill.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97958:2"/>
+            <pb n="3" facs="tcp:97958:2"/>
+            <opener>
+               <salute>Honoured Brother,</salute>
+            </opener>
+            <p>I Have lately received yours, wherein you give me
+account of the Fall of your Rents, the Cheapneſs
+of your Wools, the decay of your Manufacture in
+<hi>England;</hi> and you aſcribe the cauſe of it principally
+to <hi>Ireland;</hi> which is a double Melancholly to me, that
+you, firſt, who are the Head of our Family, ſhould
+find your ſelf ſo ſtraitned<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat you cannot ſupport its
+Dignity with the ſame eaſe and plenty that you did for<g ref="char:EOLhyphen"/>merly:
+but that I, then, who have for you all the af<g ref="char:EOLhyphen"/>fection
+and tenderneſs of ſo dear a Relation, ſhould be
+engaged in a Country and Intereſt oppoſite<g ref="char:punc">▪</g> as it
+ſeems to yours, and acceſſory to your ruine, there is
+nothing worſe could happen to me, then that it were
+real. And yet, did I find my ſelf here in a more happy
+condition, I could better reliſh your complaints, and
+my opportunity of ſerving you, would extinguiſh in
+me all other ſenſe of your misfortunes. I ſhould take
+an innocent pride out of a younger Brothers fortunes
+to ſupply the Elder. For as in Timber, the ſap de<g ref="char:EOLhyphen"/>ſcends
+in Winter, ſo it is but natural and reaſonable,
+that in hard times the Branches ſhould pinch to
+ſuccour the Root of the Family. But alas, the caſe with
+us is far otherwiſe, ſo deſtitute of affording you help,
+that we can ſcarce find our ſelves a ſubſiſtance: but ſo
+abſurd is our calamity, that we labour under abun<g ref="char:EOLhyphen"/>dance
+of want in a moſt plentiful Country. And what
+aggravates it the more, is, that you in <hi>England</hi> concur
+to it; not by accident only, but upon judgement
+and deliberation: as if you had entertained a maxime
+of deſtroying us for your own preſervation, and pul<g ref="char:EOLhyphen"/>ling
+off that Twig which at one time or other might
+ſave you from ſinking. Your Head akes, your Heart
+<pb n="4" facs="tcp:97958:3"/>
+trembles, your Liver ulcerates; yet all your Diſeaſes
+and Diſtempers muſt be attributed to <hi>Ireland,</hi> which
+lyes and ſwells, you think, like the Spleen upon the
+ſide of <hi>England.</hi> Whereas, if you could cut it off, you
+would fin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your ſelves by the loſs of ſuch a Receptacle
+much impaired, but no advantage either in your
+Health or good Humour. It is you in <hi>England</hi> only,
+that have been the cauſe both of your own and our ſuf<g ref="char:EOLhyphen"/>ferings,
+and have a mind, I doubt, to continue ſo. But,
+that I may not ſpend your time in Recriminations
+(which is the ſolace of the Deſperate) I ſhall ſtrive to
+convince you of it by Reaſon (which is the Remedy of
+the Curable.) And therefore I ſhall diſcourſe it with
+you with that freedom which the neceſſity of the Caſe
+requires, and which is moſt ſuitable to the intimacy of
+our Fraternal Relation; the beſt Emblem of that Cor<g ref="char:EOLhyphen"/>reſpondence
+which were to be wiſhed between the two
+Nations for their Mutual Happineſs.</p>
+            <p>And becauſe what is freſheſt in memory, doth moſt
+affect the Underſtanding, I ſhall date this Argument no
+further back then the Kings bleſſed Reſtauration: that
+<hi>Caroline</hi> period, from which, as a ſecond Creation of
+our leſſer world, it were proper to reckon a New Stile;
+and, were it of the ſame labour, to have reformed both
+the Times and the Calendar. That ſeaſonable return
+had filled all minds with ſo general a ſatisfaction, that
+it ſeemed no man had cauſe, or leiſure, or inclination
+to wiſh worſe to others, or themſelves better. And as
+the reſt, ſo we in <hi>Ireland</hi> (happy becauſe contented)
+lived in a condition tolerable to our ſelves, and ſer<g ref="char:EOLhyphen"/>viceable
+to <hi>England.</hi> For without buſie proſpects of
+greater advantage, we gave our ſelves in a manner
+wholly to that harmleſs and primitive courſe of breed<g ref="char:EOLhyphen"/>ing
+Cattel; which we tranſported to you, and ſold at
+<pb n="5" facs="tcp:97958:3"/>
+eaſie rates in your Markets: wherein we had but that
+ſingle, you a manifold profit; both in the Groſs, by
+ſtocking your Grounds therewith to feed them; and in
+the Retail, by thoſe ſeveral Commodities that ariſe in
+the Slaughter; the Tallow, the Victual, the Hides, and
+the Fleeces, all which turned to account of the re<g ref="char:EOLhyphen"/>ſpective
+Trades therein concerned. And, which is yet
+more weighty to conſider, we did not hereby drain
+away your Money to hoard it up, or brood upon it in
+<hi>Ireland:</hi> but very ſimply and honeſtly, as ſoon as we
+had received it with one hand, we laid it out again
+with the other, with you for your Manufactures, or for
+the Foreign Commodities of which you were our Mer<g ref="char:EOLhyphen"/>chants;
+or elſe it went to furniſh ſuch of our Nobility
+as reſided in your Court for their Expences. And it re<g ref="char:EOLhyphen"/>quires
+much ſubtilty to invent what more you could
+have deſired of us, and how either in Commerce we
+could be more ſubſervient, or in Policy we could be
+more dependent upon you, then by this means we were
+rendred, without attempting or dreaming on our ſide
+of any further intercourſe: all the benefit of <hi>Ireland</hi>
+redounding to you, while to us there remained no
+more but a bare livelihood. And yet after ſome years
+that things had continued on in this tenour, all on a
+ſudden, and, if we were rightly informed, not without
+ſome repugnance at firſt in His Majeſty, the Importation
+of our <hi>Iriſh</hi> Cattel is by Act of Parliament prohibited.
+And (to clench it the faſter, and to ſet (if I may ſo
+ſay) a Spell upon His Majeſties Power and Prudence,
+leſt he might upon occaſion redreſs it for the future)
+it is in a Magical and ſevere term of Law declared to
+be a publick Nuſance. What could be the reaſon, it is
+not for me to conjecture, much leſs to determine. But
+<pb n="6" facs="tcp:97958:4"/>
+whatſoever leſs and inviſible Spring might, as is uſual in
+other great affairs, animate this motion, it cannot be
+otherwiſe in ſo numerous and prudent an Aſſembly, ſo
+involved in the Intereſt of their Country, and ſenſible
+of their own, but it muſt have been repreſented under
+the moſt ſpecious, colourable, and neceſſary Arguments;
+That by this Importation, your own breed of Cattel
+decayed, your Markets were glutted, and your Rents
+ſtarved. Wherein give me leave to ſay, that it hap<g ref="char:EOLhyphen"/>pened
+to you as with men who having run themſelves
+out, do ſet up late for Frugality; they entertain them<g ref="char:EOLhyphen"/>ſelves
+with every Project that firſt preſents it ſelf, and
+what is next, does always ſeem moſt reaſonable. For
+admitting that ſome of your Counties might be preju<g ref="char:EOLhyphen"/>diced
+by the Importation of our Cattel, yet whatſo<g ref="char:EOLhyphen"/>ever
+profit accrued to others by it, did, upon the mu<g ref="char:EOLhyphen"/>tual
+neceſſities of all, circle into the common Stock of
+your Nation. And it ſeems to me, that whatſoever
+private Obligation a Parliament-man hath to the place
+where he is elected; yet, when once he comes to ſit,
+his Truſt and his Mind is inlarged, and he does no more
+conſider himſelf as the Polititian of a Shire, or the Pa<g ref="char:EOLhyphen"/>triot
+of a Borough, but as a Repreſenter of the Univer<g ref="char:EOLhyphen"/>ſality.
+Whereas otherwiſe, if any County, one or more,
+chance to be more fertile then other in Members of Par<g ref="char:EOLhyphen"/>liament,
+and they Act by ſuch narrow Meaſures; the
+Deciſion would be by Multitude, not by Reaſon; Arith<g ref="char:EOLhyphen"/>metick
+would be Logick, and the greater Herd, as
+among Cattel, would carry it. You beſt know how that
+matter went who are one of them; and however your
+opinion ſtand in other things as to us in <hi>Ireland;</hi> yet I
+need not Divine your thoughts on this Queſtion, ſerving
+as you do for—, and ſo the Bias of your Intereſt
+<pb n="7" facs="tcp:97958:4"/>
+there corroborating the general rectitude of your Judg<g ref="char:EOLhyphen"/>ment.
+And if the buſineſs were now to tell Counties,
+I have been lately aſſured by ſome from <hi>England,</hi> that
+thoſe Counties that find themſelves not benefited, and
+thoſe that are really aggrieved by this Act, do by this
+time upon Experiment and ſecond thoughts, make up
+the greateſt party. For, if we account like Merchants
+by Profit and Loſs, all the Profit that can be made by
+this Act, returns only to ſuch Counties which are proper
+for Breeding, or the deeper Feeding of Cattel of your
+own growth; whereby they do but raiſe the price upon
+their Neighbours, and Monopolize the reſt of your
+Nation. Theſe other in the mean time have their
+Grounds thrown up into their own hands, which uſed to
+be ſtock'd with our leſſer Cattel, that ſerved them, as ſmall
+Money does poor People, for Change at the Market.
+And your whole Nation hath hereby loſt in great
+meaſure the Vent of their Home and Foreign Commo<g ref="char:EOLhyphen"/>dities
+to <hi>Ireland,</hi> and wholly the increaſing Product to
+you of our Cattel <hi>in ſpecie.</hi> But as to the Political point,
+you did herein, as much as in you then was, cut off all
+that ſtronger, as more Natural dependance of that King<g ref="char:EOLhyphen"/>dom
+upon yours, and neceſſitate your ſelves to govern
+it rather by the force of Authority, then by the influ<g ref="char:EOLhyphen"/>ential
+benignity of Intereſt. It were too tragical to de<g ref="char:EOLhyphen"/>ſcribe
+to you the ſurprize and aſtoniſhment with which
+the firſt News of that Act ſeized and affected us. Our
+condition did contrarily reſemble his in the Fable, who
+ſaw every thing turn'd into Gold that he ſhould have
+fed upon, but we could only feed upon that, which be<g ref="char:EOLhyphen"/>fore
+we converted into Money. It may beſt be com<g ref="char:EOLhyphen"/>pared
+and conceived by the decrying of Coin, where<g ref="char:EOLhyphen"/>by
+he that was one day Maſter, as he imagined, of
+<pb n="8" facs="tcp:97958:5"/>
+great Wealth, finds the next morning nothing but an
+unvaluable lump, wherein to contemplate his Poverty.
+What was to be done in this exigent? when we were
+reduced to the perfect ſtate of <hi>Boccaneers,</hi> to kill Cows
+and ſurfeit our ſelves on the Carkaſſes, that we might
+ſell the Hides to the next charitable Foreigner that
+chanced to viſit us.</p>
+            <p>Being thus to begin the world again, and conſtrain<g ref="char:EOLhyphen"/>ed
+to look out for a new way to ſuſtain Nature, we took
+councel of neceſſity. Our Commodities out of which
+we could ſubſiſt, were either our Corn, our greater
+Cattel, or our Sheep. For the <hi>Iriſh</hi> Corn, it could
+ſerve us only to Market with among our ſelves; being
+by reaſon of the Climate, not ſo large, firm and dry a
+Grain, that it ſhould be proper for Tranſportation:
+And conſequently we Plowed no more then might
+ſerve us yearly from hand to mouth for our own ſpend<g ref="char:EOLhyphen"/>ing.
+For our Cattel, we continued the breeding of
+them, and imployed part of our grounds to feed them:
+Finding, for the proportion, more Advantage by Victu<g ref="char:EOLhyphen"/>alling
+it out to Foreigners, then what we had former<g ref="char:EOLhyphen"/>ly
+by their Whole-ſale in <hi>England.</hi> But that Vent
+was nothing equal to what thoſe Tracts of Land, that
+lay idle before us would have furniſhed: And there<g ref="char:EOLhyphen"/>fore
+we betook our ſelves more generally to the Gra<g ref="char:EOLhyphen"/>zing
+of Sheep, in which you know, how numerous
+Flocks, and wide Paſtures are managed by one Shep<g ref="char:EOLhyphen"/>herd.
+So that this courſe did beſt ſuit with our Purſe,
+that could not anſwer any more expenſive profit; and
+with our Diſpoſitions, that are not made for Laborious
+improvements; and with your Jealouſie, who interpret
+our induſtry as Theft, and that we defraud you as oft
+as we make the leaſt attempt to work out an honeſt
+<pb n="7" facs="tcp:97958:5"/>
+Living. So that the Wool now was the onely thing
+that we had to reſt upon: And you were provided
+with ſufficient Act of Parliament to be the onely
+Mart for it: It being made Felony to Tranſport it in<g ref="char:EOLhyphen"/>to
+forain parts; and Confiſcation to Import it to you,
+otherwiſe than crude and unmanufactur'd. And yet,
+having thus again patched up a ſlender Subſiſtence and
+method of being, we had re-compoſed our ſelves, en<g ref="char:EOLhyphen"/>joying
+Poverty and Eaſe, and leading an <hi>Arcadian</hi>-life,
+ſolaced among the Sheep with our Paſtorals. We had
+left muttering any more at your Act againſt <hi>Iriſh</hi>-Cat<g ref="char:EOLhyphen"/>tle,
+and onely ſmiled, as in a Triumph, not of Malice, but
+of Reaſon, to ſee that you were now the perſons agrie<g ref="char:EOLhyphen"/>ved;
+and if not yet convinced of the cauſe, yet labou<g ref="char:EOLhyphen"/>ring
+under the effects of it. For, whereas ſome Co<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ties
+onely could complain of our Cattle, the cheap<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s
+of Wools was become a general incommodity to your
+whole Nation. For, I believe, as you were ready e<g ref="char:EOLhyphen"/>nough
+to imagine, that by importing upon you all the
+Wools of this Kingdom, yours were partly choaked; ha<g ref="char:EOLhyphen"/>ving
+more of your own upon your hands already, than, in
+the preſent ſtate of Trade thorough the World, your
+own Manufactors could work, or your <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>chants vend
+beyond Sea. Although, we paying the King's and
+Lieutenant's Duty, which is at leaſt Two ſhillings for
+every Stone, beſide the fraught of the Ships that bring
+it over, and the other charges of Factorage and Market,
+are competently guarded from the danger of under<g ref="char:EOLhyphen"/>ſelling
+you. For, by this means it is eaſie to compute,
+that in reſpect to your Wools, ours are ſold at that which
+Merchants call Fifty <hi>per Cent.</hi> diſadvantage. Yet, as the
+Trade of our Cattle injured you before, ſo now our
+Wools grow toward a Nuiſance: what was lawful for
+<pb n="10" facs="tcp:97958:6"/>
+us and profitable to you, you prohibited; what you
+conſtrain us to, you accuſe: you are neither well full
+nor faſting; I know not what you would have, unleſs
+you could furniſh us with a breed of Sheep that bore
+no fleeces. Is it not the ſame, that thoſe fleeces bear no
+price? But though thoſe Gentlemen among you whoſe
+Rents depend much upon that product, do doubtleſs
+finde their Eſtates by the late cheapneſs of Wool much
+reduced; yet I ſhall, ere I cloſe this Letter, ſhew you
+that our <hi>Iriſh</hi>-wool is the leaſt acceſſory to it. And
+however, your Kingdom doth ſo abound with native
+Commodities (which, were you not ſo in love with the
+forain, would multiply to you in Treaſure and Bullion)
+that you might well, or much better than we, diſpence
+with the common calamity upon that Trade, who have
+ſo many more to truſt to: Whereas this is in a manner
+the onely one that is left us, and that too fails us. For
+it is not to be preſum'd that, while your own Wool ſells
+not, you will out of good nature prefer ours at a Mar<g ref="char:EOLhyphen"/>ket:
+Nor that you are ſo new-fangled, as much ſtran<g ref="char:EOLhyphen"/>gers
+as you make us, that you will enquire out for <hi>la
+Lained' Irlande,</hi> and make it your mode to wear it. But
+it remain<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eer Drug, although you are thoſe that
+will be the Ingroſſers. In this condition, miſerable to
+our ſelves, and yet ſubject to your envy, what can be
+propounded for our relief, or toward your ſatisfaction?
+Shall we ſteal our Wool beyond Sea? which yet were
+but to ſteal our own goods; that you will ſay would
+be a greater prejudice to you. Shall we manufacture it
+at home? That, although a double benefit to us, would
+ſeem to you a double inconvenience. And yet there is
+no third way left, unleſs, like your Spiders, to weave out
+our own Bowels.</p>
+            <p>
+               <pb n="11" facs="tcp:97958:6"/>
+And here it may not be amiſs to inform you, ſomething
+better than I perceive you are at preſent, concerning
+the ſtate of our Manufac<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re in <hi>Ireland:</hi> not ſo much
+becauſe it is in it ſelf grown ſo conſiderable that it de<g ref="char:EOLhyphen"/>ſerves
+mention, (<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of all Virtues, Induſtry is the laſt
+of which you will have cauſe to accuſe us) as by rea<g ref="char:EOLhyphen"/>ſon
+it hath of late made a great noiſe with you, as things
+uſually do that are moſt empty. About ten or twelve
+years ago (before your Act againſt the Iriſh Cattle)
+ſome Weſtern Cloathiers finding, ſo early, and upon o<g ref="char:EOLhyphen"/>ther
+reaſons than are now ſuborned, that Trade decay<g ref="char:EOLhyphen"/>ing,
+and many of them reduced to extream Poverty, re<g ref="char:EOLhyphen"/>moved
+themſelves and their Families over into <hi>Ireland;</hi>
+invited by the cheapneſs there of Wool and of Liveli<g ref="char:EOLhyphen"/>hood.
+Theſe erected then a Manufactory (great in
+reſpect to <hi>Ireland)</hi> at <hi>Dublin,</hi> which hath been carried
+on ever ſince, and increaſes dayly. There came alſo
+over, much about the ſame time, Sixty Families from
+<hi>Holland,</hi> ſetting up another at <hi>Lymerick;</hi> which by oc<g ref="char:EOLhyphen"/>caſion
+of the ſucceeding Wars decayed. But after
+theſe, more of the Engliſh Cloathiers came and fixed a<g ref="char:EOLhyphen"/>bout
+<hi>Corke</hi> and <hi>Kinſale,</hi> where they continue, and are
+grown not inconſiderable. Some <hi>French</hi> have ſince re<g ref="char:EOLhyphen"/>ſorted
+to <hi>Waterford,</hi> to make Druggets there, and other
+Commodities of their faſhion. And about a year or
+two ago, ſome Merchants of <hi>London</hi> raiſed another Ma<g ref="char:EOLhyphen"/>nufacture
+at <hi>Clonmel,</hi> managing it by their Agents.
+Some ſmall Attempts of the like nature may be met with
+here and there in the Countries, but not worth ſp<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>king
+of. Theſe are the Crimes of which we are gu<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y
+before any Law to prohibit us: it were more allowable
+to plant Poyſon than Manufacture with <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and we lie
+it ſeems under ſuch an Obloquy and Clamo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which
+<pb n="12" facs="tcp:97958:7"/>
+as far as I can judge by your Letter, you alſo liſten to)
+that, as to import our Cattle to you is a Nuiſance, and
+to export our Wools is Felon<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; ſo, by gradation, to e<g ref="char:EOLhyphen"/>rect
+here a Manufacture ought to be no leſs than Trea<g ref="char:EOLhyphen"/>ſon.
+And yet there is more Cry than Wool in all this
+matter: For I dare, and do aſſure you, that, modeſtly
+ſpeaking, the whole quantity of what we work up in
+<hi>Ireland,</hi> amounts not to the half of what any one Cloa<g ref="char:EOLhyphen"/>thing-County
+in <hi>England.</hi> Of what Importance Ma<g ref="char:EOLhyphen"/>nufacture
+is to us, appears more than ſufficiently by this
+jealouſie of it that you have conceived, and by that Life
+which ſo ſmall but active a Particle inſinuates into this
+poor and idle Body of a Nation. If it were Promoted
+as carefully as it is Diſcouraged, it would make his Ma<g ref="char:EOLhyphen"/>jeſty's
+Revenue here riſe with more Eaſe to the Subject,
+and proportionably increaſe it for the future. It would
+repleniſh the Country with People, raiſe the price of
+our Lands, and wear off the Barbarity of the common
+<hi>Iriſh,</hi> when once they were inured to Labour: For In<g ref="char:EOLhyphen"/>duſtry
+is the firſt ſtep to Civility, and the ſecureſt pledge
+to Government; thoſe that will take pains for their
+own living, being the leaſt inclined to invade anothers
+Propriety. If thoſe that are the Heads of ſuch Under<g ref="char:EOLhyphen"/>takings
+reſide with you in <hi>England,</hi> all the Product they
+ſhould make here, would return over to you into the
+common Stock of your Nation: If they do not, but
+reſide with us, we indeed receive the Advantages above<g ref="char:EOLhyphen"/>mentioned;
+but to you there is no other difference, than
+that you are Rich on this ſide of the water.</p>
+            <p>All that can be objected reaſonably (for none, I hope
+do officiouſly maligne us) is, that you are however the
+neareſt Neighbours to your ſelves, and whatever be<g ref="char:EOLhyphen"/>comes
+of us, ſink or ſwim, you muſt provide that you
+<pb n="13" facs="tcp:97958:7"/>
+ſuffer not by us, either in exhauſting your People,
+whereof you are already not too numerous; or by di<g ref="char:EOLhyphen"/>miniſhing
+your Trade, which is already much decayed.
+As to the danger of depopulating you, which is the
+firſt, it is a thing you can onely preſuppoſe and imagine,
+but which we, were it a thing to be wiſhed, could ne<g ref="char:EOLhyphen"/>ver
+hope for. God forbid (if it be lawful to make ſo
+unneceſſary and vain a requeſt) that any accident or
+extremity ſhould cauſe you to exchange <hi>Middleſex</hi> for
+<hi>Lemſter,</hi> and prefer <hi>Dublin</hi> before <hi>London,</hi> to be the
+Imperial Seat and Chamber of the Monarchy. It is in<g ref="char:EOLhyphen"/>deed,
+as the profit of an Huſbandman, to have his Land
+full ſtock'd with Cattle; ſo of a Prince, to have his
+Dominions mann'd with a proportionable complement
+of People. And one of our Country-men intereſſed in
+both Nations, hath therefore well calculated how much
+the Publick miſſes or gains in the perſon of every In<g ref="char:EOLhyphen"/>dividual.
+The Bodies of Men are not onely eſtimable
+while living, but when dead: And, were it not to play
+the Coqueten in Trade, I could demonſtrate what
+prejudice the Nation receives by the burying of every
+Engliſh-man beyond Sea; and how far the Smith, the
+Iron-monger, the Joyner, and the Curate, with ſeveral
+other Trades, are thereby damnified, and our Neigh<g ref="char:EOLhyphen"/>bours
+advantaged. And I could then diſpute, that an
+Act againſt Oaken Coffins were no leſs neceſſary at
+home for preſerving your Timber, than that for Flan<g ref="char:EOLhyphen"/>nel-ſhrowds
+was for the incouragement of your Woollen
+Manufacture. But if this of the Dead ſeems ridicu<g ref="char:EOLhyphen"/>lous
+to you, pardon me if I ſay, that were we not of
+the two the more melancholy Nation, neither could
+we refrain from ſmiling at this your frugality of the
+Living. For, how can we think you ſerious in ſo ſpe<g ref="char:EOLhyphen"/>culative
+<pb n="14" facs="tcp:97958:8"/>
+and remote a Conſideration, that, as to us, it is
+rather a Caſe put, than what can ever be preſumed to
+fall out in practice. For, while herein you repreſent
+the Weaver, who overſhooting his Shuttle into the
+Wall, although a Batchelor, wet his cheeks and his Ma<g ref="char:EOLhyphen"/>nufacture
+to think, how if his onely ſon had received
+that blow, his Majeſty had loſt a Subject, and himſelf
+the ſtay of his Family; you nevertheleſs at the ſame
+time, and while at Peace, tranſport yearly many thou<g ref="char:EOLhyphen"/>ſands
+of <hi>Engliſh</hi> to be kill'd in the Wars, and are become
+the Magazine of men to your Neighbours. You do not
+onely ſend out yearly ſwarms of men to your old Colo<g ref="char:EOLhyphen"/>nies,
+but, wanting, it ſeems, Hives for your multitude,
+you do every day increaſe your new Buildings at home,
+and abroad deſign new Plantations. And even your
+Merchants, incorporated with others, whoſe greater
+quality may ſuppoſe them to be States-men in that
+particular; yet, inſtead of bringing over more Gold
+from <hi>Guiny,</hi> do, as I am told, ſo inhanſe their ſole Trade of
+<hi>Negroes,</hi> that your Planters, not able to go to the price,
+are forced to load their Ships continually with <hi>Engliſh</hi>
+Servants. And, if there were this penury of people
+with you, it is probable that you would finde out
+Employment for ſo many idle perſons that, as I obſer<g ref="char:EOLhyphen"/>ved
+when I came laſt over, notwithſtanding thoſe con<g ref="char:EOLhyphen"/>ſtant
+draughts beyond Sea, do both Natives and For<g ref="char:EOLhyphen"/>rainers
+peſter you ſtill at home, and ſo incumber your
+Streets and your High-ways, that a man of buſineſs
+can ſcarce paſs without juſtling. Therefore it is time
+for you to quit this Notion, which you ſo many ways
+ſlight in effect, and contradict in practiſe, and in our caſe
+is ſo ſingular: unleſs you will affix your inhabitants
+like Trees to the Soil, and lay as ſevere an Injunction
+<pb n="15" facs="tcp:97958:8"/>
+againſt your <hi>Engliſh</hi> mens going abroad, as that where<g ref="char:EOLhyphen"/>with
+you have impounded our Cattle at home in <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>That which may afford more appearance of reality is,
+that our Woollen Manufactures interrupt the Vent of
+yours. But I have already ſhewn you how ſlender a
+quantity is wrought up with us; ſo ſmall a pittance, that
+it cannot affect even your <hi>Norwich,</hi> much leſs your whole
+Kingdom: nor is there yet any Law (I hope will not)
+to interdict us what, if real, were ſo neceſſary. The
+<hi>Dutch,</hi> the <hi>French,</hi> any Forrainer have Liberty, and make
+uſe of it, to work with us; and ſhall either the <hi>Iriſh</hi> or
+<hi>Engliſh</hi> of both Countries be rather debarr'd, whether
+Rich from planting Manufacture, or whether Poor from
+labouring it in <hi>Ireland?</hi> I know not that ever it en<g ref="char:EOLhyphen"/>tred
+into your minds to forbid your <hi>Engliſh</hi> the pur<g ref="char:EOLhyphen"/>chaſing
+of Land among us: and what reaſon is there
+greater to hinder them from imploying their Money with
+us upon any other occaſion to private and publick advan<g ref="char:EOLhyphen"/>tage?
+But what do I inſtance in Land, a thing the moſt
+improbable; and to which, as it ſtands with us, the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi>
+can at preſent have no temptation? when, beſide
+the novelty, weakneſs, and mutability of Titles, every
+thing from which the profit might reſult, is rendred ſo
+incommodious to us, and unpracticable, that as the
+Tenant hath onely his Labour for his Pains, ſo the Pur<g ref="char:EOLhyphen"/>chaſer,
+inſtead of Rent, can only have his Land for his
+Money. Therefore I ſubmit it to you to chuſe any more
+particular and proper inſtance (if ſuch there be) where
+<hi>Engliſh</hi> mens Eſtates lie under ſuch a perpetual Tuition,
+and others may adminiſter to him that is yet living. But
+this Clamour hath ſo little of a publick ſpirit in it, that
+it ſavours rather of that envy which is among little Ar<g ref="char:EOLhyphen"/>tificers,
+<pb n="16" facs="tcp:97958:9"/>
+or meaner Merchants that trade or factor in the
+ſame Commodity: For there is indeed no man but doth
+in ſome ſort prejudice another; no Trade but is to the
+detriment of another Trade in ſome meaſure: yet theſe
+are all reconciled in the publick Convenience or Neceſ<g ref="char:EOLhyphen"/>ſity;
+otherwiſe every County, every Company, every
+Member would ſtand in anothers way, and there ſhould
+be no end of Diviſibility. But, if you were in earneſt,
+methinks it would better require your good Huſbandry
+and Inſpection to rectifie thoſe, whether Trades or Per<g ref="char:EOLhyphen"/>ſons,
+that ſuck out your very blood, tranſvaſating for<g ref="char:EOLhyphen"/>rain
+Juyces into your Veins; and that, while they ex<g ref="char:EOLhyphen"/>port
+your Treaſure and Bullion, prey upon your Vitals.
+And to diſcover ſuch others, who, under the quality of
+Engliſh Merchants, are, as is ſaid, but Factors for Aliens,
+and dayly ſpirit away the Wealth and Strength of your
+Nation beyond Sea. But however you judge and diſ<g ref="char:EOLhyphen"/>poſe
+of your Domeſtick Affairs, ſuffer not your ſelves, in
+regard of us, to be impoſed on by falſe ſuggeſtions a<g ref="char:EOLhyphen"/>gainſt
+your own and our Intereſt.</p>
+            <p>For the deadneſs of your Manufactures, as well as
+ours, proceeds not from their interfering with one ano<g ref="char:EOLhyphen"/>ther,
+but from much differing cauſes, wherein it may
+befit you, firſt to conſider (for I will not, to the diſ-re<g ref="char:EOLhyphen"/>putation
+of ſo many worthy Merchants, affirm what is re<g ref="char:EOLhyphen"/>ported
+at this diſtance) whether ſeveral of thoſe Com<g ref="char:EOLhyphen"/>panies
+that are intruſted and impower'd with the ſole
+Trade of your home-bred Commodities in remote Re<g ref="char:EOLhyphen"/>gions,
+do not for their more exceſſive advantage, for<g ref="char:EOLhyphen"/>bear
+to buy up that quantity which ſo great a part of
+the world as lies ſtretch'd out in their Patents, but un<g ref="char:EOLhyphen"/>viſited
+in their Traffick, would take off, at a more mo<g ref="char:EOLhyphen"/>derate
+profit. And whether they do not, for what
+<pb n="17" facs="tcp:97958:9"/>
+Quantity they do utter, methodize their buying ſo
+artificially, to ſuch times, conditions, and reſtrictive
+regulations, practiſing upon the Manufactors neceſſi<g ref="char:EOLhyphen"/>ty,
+that the poor men lie at the Merchants mercy,
+and their goods lie ſo long upon their hands, till
+they are forced to receive any rate from the ſingle Chap<g ref="char:EOLhyphen"/>man's
+diſcretion. For, whether it be ſo or no in this
+particular, there is that general malignity in Commerce,
+that the rich Buyer does ſet the Dice always upon the
+neceſſitous Seller: as in the moſt plentiful years of Corn,
+the Ingroſſer never thinks the Market low enough.
+But a more evident and certain reaſon of yours and
+our conſuming for want of Conſumption, is the Wars,
+with which formerly and of later years, <hi>Europe</hi> has ge<g ref="char:EOLhyphen"/>nerally
+been infeſted. So that in moſt parts thereof,
+which were uſually ſupplied from you, the people have
+been much impoveriſhed, and thereby neceſſitated to be
+their own Clothiers firſt, and from thence enabled, In<g ref="char:EOLhyphen"/>duſtry
+increaſing, ſome of them to furniſh their Neigh<g ref="char:EOLhyphen"/>bours.
+And to this ſeveral of your own Subjects have
+concurred, who either not finding themſelves well and
+eaſie at home, or inticed over by greater profit, have in<g ref="char:EOLhyphen"/>ſtructed
+Forainers in the whole myſtery of Cloathing,
+till they now have made <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Staple Commodity, and
+out-do yours for perfection, and, what between their
+finer and courſer Manufactures, can both over and un<g ref="char:EOLhyphen"/>der-ſell
+you at any Market; where you too, that were
+the ſole Merchants, do often condeſcend to be their
+Chapmen. Thus by the reciprocation of humane af<g ref="char:EOLhyphen"/>fairs,
+that Trade which the Wars, upon the Forainers
+refuge with you, firſt introduced, is upon occaſion of
+the Wars revolved back again, and the Drapery reſtored
+to them in great meaſure, even by means of your own
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>
+               <pb n="18" facs="tcp:97958:10"/>
+But the grand ſpring of this whole matter lies in
+<hi>France.</hi> That King is a moſt vigilant and potent Prince,
+ſtrong in Arms, in Councel, in Treaſure, and in People,
+and who meaſures Juſtice by his Intereſt. And accor<g ref="char:EOLhyphen"/>dingly,
+ever ſince he manifeſted himſelf, and aſſumed the
+whole direction of his own affairs, he hath made war to
+all <hi>Europe:</hi> with his Sword, againſt his Enemies; but
+againſt his Friends, (and Enemies alſo) by Traffique;
+which is indeed, as the more juſt, ſo the moſt effectual
+way of deſtroying them. But, among all, none hath
+on this latter account more ſuffered than the Subjects of
+<hi>England.</hi> For, beſide the Wines, which we purchaſe at
+moſt exceſſive rates, and for the moſt part with pure
+Money, (although, if it pleaſed the King and Parlia<g ref="char:EOLhyphen"/>ment,
+there might more generous Wines and upon bet<g ref="char:EOLhyphen"/>ter
+terms be imported from <hi>Italy</hi> and the <hi>Mediterranean)</hi>
+and beſide thoſe Trinkets, of which we are ſo fond,
+and to the making of which the <hi>French</hi> Genius was
+formerly moſt adapted: He hath, now for many years,
+applied his people to the more ſolid Trades of Cloath,
+Silk, and Stuffs, indeed of all things valuable; embra<g ref="char:EOLhyphen"/>cing
+in effect, or in projection, the univerſal Monarchy of
+Commerce. Never did any Prince, except our own,
+addict himſelf ſo wholly to the encouragement of
+Trade and Navigation. Therefore he hath not onely
+promoted the building of Merchants-ſhips, to carry in
+and out; but provided himſelf alſo of a formidable
+Navy, fit to juſtifie whatſoever he ſhall think reaſon to
+attempt. He hath both trained up his own Subjects to
+Sea, which before they nauſeated, and allured over great
+numbers of your beſt Mariners into his ſervice. To
+this, he hath either wholly prohibited<g ref="char:punc">▪</g> or which is tan<g ref="char:EOLhyphen"/>tamount,
+laid ſo exceſſive Impoſitions upon all <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+               <pb n="19" facs="tcp:97958:10"/>
+Manufactures, and other Merchandizes which were
+vendible there, that they are in a manner totally exclu<g ref="char:EOLhyphen"/>ded,
+and you have no Commodity to exchange with,
+but whatever you have of his (and have it you will
+whatſoever it coſt you) muſt be bought with the Pen<g ref="char:EOLhyphen"/>ny.
+Inſomuch, that I have ſeen here a particular, drawn
+up as 'tis ſaid in your Parliament, wherein they compu<g ref="char:EOLhyphen"/>ted,
+beſide the <hi>Lucrum ceſſans,</hi> that your Nation ſuſtains a
+clear loſs of <hi>Eleven hundred thouſand pounds</hi> yearly by
+the <hi>French</hi> Trade. And what would any private man's
+Eſtate with ſuch Huſbandry come to in a ſhort period?
+<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eby the <hi>French,</hi> that were before, at beſt, but the
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>llainers of <hi>Europe,</hi> are now become, or pretend to be,
+the Cape-merchants; and their King gives, not onely
+the Mode, but the Garment to all Chriſtendome, and
+the World puts it ſelf into his Livery at their own Ex<g ref="char:EOLhyphen"/>pences.
+Well may you in <hi>England</hi> complain of the
+death rather than deadneſs of your Manufacture, when
+from this cauſe it receives ſuch an obſtruction, even to
+ſuffocation, when you are not onely deprived of that
+general and gainful vent that you had formerly in <hi>France</hi>
+it ſelf, but in all other places where you traffique you
+meet the <hi>French</hi> now at every turn; and the Forrain
+Poſt brings News from all parts that they are before you,
+and have under-ſold you in the ſame Commodities.</p>
+            <p>And to this Diſeaſe ſo mortal, and which it is beyond
+any private man to remedy, your ſelves do more par<g ref="char:EOLhyphen"/>ticularly
+contribute, by thoſe vaſt quantities of Wool
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich, they tell us here, are daily, and now more than ever
+tranſported for <hi>France;</hi> (a thing that you always prohi<g ref="char:EOLhyphen"/>bit,
+but it ſeems you always tolerate) ſo that in effect <hi>Ca<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+is ſtill no leſs your Staple than while it was formerly
+under the Engliſh Dominion. I will not excuſe our ſelves
+<pb n="20" facs="tcp:97958:11"/>
+in <hi>Ireland</hi> from the ſame Crime, although in leſs propor<g ref="char:EOLhyphen"/>tion:
+For whereſoever any Commodity is ſo <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pent up,
+as with us, it will force it ſelf a vent one way or other.
+But you have, as I hear, a <hi>Militia,</hi> that in defiance
+of all Authority, convoy their Caravans of Wool
+to the Shallop with ſuch a ſtrength, that your Officers
+dare not offend them: while whatſoever we do of that
+kind, is more modeſt; and whereſoe're it loſes its way
+afterwards at Sea, it is firſt entred for <hi>England,</hi> and
+pays, as I told you before, both the King's Duty, and
+that to the Lord-Lieutenant, for Licenſe: So that, as we
+cannot Trade, ſo neither can we Steal with you on equal
+terms.</p>
+            <p>By this time I hope you are ſatisfied and convinced,
+that <hi>Ireland</hi> deſerves not your Complaint, but your
+Pity: and that thoſe things which ſome have a<g ref="char:EOLhyphen"/>ſcribed
+to us, are but the common Calamity of both
+Nations, occaſioned by the Flux of Humane Affairs,
+and Accidents of the preſent Conjuncture thorow <hi>Eu<g ref="char:EOLhyphen"/>rope:</hi>
+and therefore that you will not only conſult how
+to redreſs our common Grievances, but that you will al<g ref="char:EOLhyphen"/>ſo
+remedy thoſe more particular Preſſures that we ſuf<g ref="char:EOLhyphen"/>fer
+by or under you. For <hi>Ireland</hi> is indeed a Country
+ſcituate with great advantage for Commerce, and eſpe<g ref="char:EOLhyphen"/>cially
+toward the Weſtern and Southern Navigation.
+The Ports are many, and of the moſt capable and commo<g ref="char:EOLhyphen"/>dious.
+The Soil is fertile, and where not, yet pregnant,
+in many places with Minerals, and elſewhere large and
+well grown Woods, fit to be ſhaped out into Navies;
+with ſuch convenience for building, that I have often
+wondred how, in ſuch ſcarcity of Timber, you have
+not ſometimes thought of having one <hi>Chatham</hi> at leaſt
+in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <pb n="21" facs="tcp:97958:11"/>
+Nature has indeed been kinde to us, were You ſo
+likewiſe. But you prohibit our Cattel, you reſtrain
+our Wool; our Manufacture is intolerable; you forbid
+our Trading with any Forreign Commodities in your
+own Plantations: what we buy there, we muſt enter
+in <hi>England;</hi> and before we land it, muſt make a ſecond
+and more dangerous Voyage, to pay you double Cu<g ref="char:EOLhyphen"/>ſtoms.
+We are in all things, indeed, treated by you
+like, or worſe than Aliens. In the mean time, we pay
+Quit-rents, Chimney-money, Exciſe, Cuſtoms; and
+have been as ready as you to Supply his Majeſtie upon
+occaſions with Taxes extraordinary. Nor yet is the
+Revenue eaſier to us, by being collected by Farmers.</p>
+            <p>It would require an exquiſite memory, to tell you
+of any late Act of State relating to <hi>Ireland,</hi> that hath
+not, one way or other, turn'd to our prejudice. And
+yet, though unhappie, we are Conſtant; nor hath it
+ever yet been in your power to diſoblige our Affection,
+much leſs our Loyalty. But I can anſwer for my ſelf:
+who is he that can enter a perpetual Guaranty for a
+whole Kingdom? The moſt Sacred Tyes will not hold,
+when worn out continually by ill uſage. How inci<g ref="char:EOLhyphen"/>dent
+it is to a Woman to be Debauched, if ſhe finde not
+the Contents of Marriage! eſpecially if ſhe be Idle, have
+entertained former correſpondence with one that ap<g ref="char:EOLhyphen"/>pears
+more potent, and who promiſes to maintain her in
+an higher Equipage. If any of your Neighbours
+ſhould be at leaſure to apply both Force and Courtſhip
+to this Kingdom when it were in ill humour, it muſt
+be of an extraordinary Vertue to reſiſt the Temptation:
+and ſhould he gain its Good-will, he would make you
+pay afterwards what Alimony he pleaſed. You might
+then too late compute how neceſſary it had been to
+<pb n="22" facs="tcp:97958:12"/>
+preſerve and cheriſh it by all means poſſible: what da<g ref="char:EOLhyphen"/>mage,
+what diminution you receive both in your Ho<g ref="char:EOLhyphen"/>nour
+and Revenue. Another would know how to im<g ref="char:EOLhyphen"/>prove,
+and againſt your ſelves, thoſe Advantages that
+you have ſlighted: and this Iſland which, partly by the
+Natural, but more by its Political Scituation, lies like a
+Mole ſit to ſhield you from Forreign Winds, to repel the
+Neighbouring Seas from breaking in upon you, and to
+make <hi>England</hi> the moſt quiet Station of all <hi>Europe, (In<g ref="char:EOLhyphen"/>ſula
+Portum efficit)</hi> would in a Strangers power ſerve
+him as a Bridge to land upon you more commodiouſly.
+For it is not ſo old as true a Saw, That <hi>He who will win</hi>
+England, <hi>must begin with</hi> Ireland.</p>
+            <p>In concluſion, the ſame aſpect that <hi>Sicily</hi> has to <hi>Italy,</hi>
+that, in all Parallels, hath <hi>Ireland</hi> to <hi>England:</hi> and it
+concerns your utmoſt care that you govern it not after
+the <hi>Spaniſh</hi> manner, leſt you prepare it to Revolt unto
+another Dominion. Therefore I would humbly adviſe
+you, Brother, in particular, no more to look upon us
+(which is the Common Errour) as a diſtinct, but as a
+conjunct Intereſt and People; and to do your part,
+what we are now rather in ſhew, to Conſolidate us re<g ref="char:EOLhyphen"/>ally
+into your own Subſtance. You have told me, I re<g ref="char:EOLhyphen"/>member,
+formerly, how many miles of barren Hills the
+Citie of <hi>Genoua</hi> hath, at vaſt expence, taken into their
+Fortifications; with that Inſcription at the Entrance:
+<hi>Ne munimenta Naturae Hostis verteret in Pericula.</hi> But
+what Method to uſe in particular, I am not capable to de<g ref="char:EOLhyphen"/>lineate;
+nor were I, yet neither am I proper to preſcribe
+to your Parliamentary prudence. For even Phyſicians,
+when ſick, diſtruſt their own Skill, and ſubmit to ano<g ref="char:EOLhyphen"/>ther's
+Counſel.</p>
+            <p>Whether you will think ſit to reverſe your Act a<g ref="char:EOLhyphen"/>gainſt
+<pb n="23" facs="tcp:97958:12"/>
+our Cattel, I know not; nor can I anſwer for
+the Effect that it would produce. But I have often
+obſerved how gladly Waters that have been diverted
+return and fall again into their former Chanel.</p>
+            <p>That you ſhould make any Act to encourage Manu<g ref="char:EOLhyphen"/>facture
+with us, is what can ſcarce be expected; but I
+hope you will make none to diſcourage it. For, as it re<g ref="char:EOLhyphen"/>quires
+no Phyſician to tell, that to keep a man warm is
+good againſt a Cold; ſo I, though no Politician, dare
+ſay in general, that it concerns you to uſe us kindly, and
+to indulge us in all things that tend to Civilize, Culti<g ref="char:EOLhyphen"/>vate,
+and People this Nation; whereby you will or may
+have, within ten hours ſail of you, a Plantation worth all
+thoſe other that weaken you at ſo great a diſtance, while
+we ſhould always be at hand, and within call, not more
+ready to defend our ſelves than you, upon the firſt inſult
+of an Enemy. By how much you have uſed us to expect
+leſs, the leſs will oblige us. We will allow you eaſily to
+make, what we are, younger Brothers of us; onely uſe
+us as Brethren, not as Slaves. For it is an equal oppreſ<g ref="char:EOLhyphen"/>ſion,
+to command men to make Brick without Straw,
+and where there is both Brick and Straw to counter<g ref="char:EOLhyphen"/>mand
+it. The moſt adequate Preſident whereby I can
+repreſent to you both our Conditions, and what to do
+in our caſe, is that of <hi>Abraham</hi> and <hi>Lot</hi> in the 13th of
+<hi>Geneſis. Abraham</hi> was, like you, <hi>very rich in Cattle, in
+Silver, and in Gold:</hi> but <hi>Lot</hi> had onely <hi>Flocks and
+Herds, and Tents.</hi> And, <hi>as they journyed, their ſub<g ref="char:EOLhyphen"/>ſtance
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as ſo great, that they could not dwell together:
+but there was a ſtrife between the Herdſmen of Abraham's
+cattle and the Herdſmen of Lot's cattle; and the Canaa<g ref="char:EOLhyphen"/>nite
+and the Perizzite dwelled then in the land. And
+Abraham ſaid unto Lot, Let there be no ſtrife, I pray thee,
+<pb n="24" facs="tcp:97958:13"/>
+betwixt me and thee,</hi> and <hi>between my Herdſmen and thy
+Herdſmen, for we are Brethren. Is not the whole land
+before us? If thou wilt go to the left hand, I will go to
+the right; and if thou depart to the right hand, then will,
+I go to the left. And Lot lifted up his eyes and beheld all
+the plain of Jordan, that it was well watered every where,
+and Lot choſe him all the plain of Jordan. Abraham
+dwelt in the land of Canaan.</hi> The Text is ſo plain, and
+applies it ſelf ſo eaſily betwixt us, that it needs no Com<g ref="char:EOLhyphen"/>mentary.
+Onely <hi>Abraham</hi> here was the Elder Brother;
+but, being ſeveral ways the richer, ſeems therefore, out
+of a natural equity and condeſcention, to have left the
+choice to <hi>Lot,</hi> who was the Son of the Younger, and had
+nothing but his Flocks and Herds to truſt to. Where<g ref="char:EOLhyphen"/>as
+we ſhall willingly ſubmit to the Order of Nature and
+of our Government, deſiring you to chuſe for us. And
+ſo God direct you in all your Councils, to His Glory, the
+Honour of His Majeſtie, and to the Wealth and Welfare
+of both Nations: which is the conſtant Prayer of</p>
+            <closer>
+               <salute>Honoured Brother,</salute>
+
+               <signed>Your moſt humble Servant,
+and moſt affectionate Brother.</signed> 
+               <dateline>Dublin, <date>Jan. 15.
+1676/7.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
